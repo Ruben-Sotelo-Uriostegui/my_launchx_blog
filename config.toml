@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://ruben-sotelo-uriostegui.github.io/playbook/"
 languageCode = "en-us"
 title = "Bitácora de Viaje"
 theme = "hugo-winston-theme"
